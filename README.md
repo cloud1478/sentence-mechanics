@@ -1,1 +1,1 @@
-# sentence-mechanics
+# Sentence Mechanics
